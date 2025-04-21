@@ -31,14 +31,20 @@
 
 ## 📢 News
 
+**[April 21, 2025]** We have released the WebGL Interactive Chatting Avatar SDK on [OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat) (including LLM, ASR, TTS, Avatar), with which you can freely chat with our generated 3D Digital Human ! 🔥 <br>
+
+**[April 19, 2025]** We have released the [Audio2Expression](https://github.com/aigc3d/LAM_Audio2Expression) model, which can animate the generated LAM Avatar with audio input ! 🔥 <br>
+
+**[April 10, 2025]** We have released the [ModelScope](https://www.modelscope.cn/studios/Damo_XR_Lab/LAM_Large_Avatar_Model) Space ! <br>
+
 ### To do list
 - [x] Release LAM-small trained on VFHQ and Nersemble.
 - [x] Release Huggingface space.
 - [x] Release Modelscope space.
 - [ ] Release LAM-large trained on a self-constructed large dataset.
 - [ ] Release WebGL Render for cross-platform animation and rendering.
-- [ ] Release audio driven model: Audio2Expression.
-- [ ] Release Interactive Chatting Avatar SDK with [OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat), including LLM, ASR, TTS, Avatar.
+- [x] Release audio driven model: Audio2Expression.
+- [x] Release Interactive Chatting Avatar SDK with [OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat), including LLM, ASR, TTS, Avatar.
 
 
 
