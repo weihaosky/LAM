@@ -30,7 +30,7 @@
 - **Low-latency SDK for Realtime Interactive Chatting Avatar**
 
 <div align="center">
-  <video controls autoplay loop src="./assets/images/Chat_Demo.mp4" width="80%">
+  <video controls src="./assets/images/Chat_Demo.mp4" width="80%">
   </video>
 </div>
 
