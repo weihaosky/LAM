@@ -18,6 +18,11 @@
 
 ####  <p align="center"> **"Build 3D Interactive Chatting Avatar with One Image in Seconds!"** </p>
 
+
+
+https://github.com/user-attachments/assets/98f66655-e1c1-40a9-ab58-bdd49dafedda
+
+
 <p align="center">
   <img src="./assets/images/teaser.jpg" width="100%">
 </p>
@@ -30,7 +35,7 @@
 - **Low-latency SDK for Realtime Interactive Chatting Avatar**
 
 <div align="center">
-  <video controls src="./assets/images/Chat_Demo.mp4" width="80%">
+  <video controls autoplay loop src="https://github.com/user-attachments/assets/98f66655-e1c1-40a9-ab58-bdd49dafedda" width="80%">
   </video>
 </div>
 
