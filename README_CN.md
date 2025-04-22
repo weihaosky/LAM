@@ -27,13 +27,18 @@
 - **WebGL跨平台超实时驱动渲染！手机跑满120FPS！**
 - **低延迟实时交互对话数字人SDK！**
 
+<div align="center">
+  <video controls autoplay loop src="./assets/images/Chat_Demo.mp4" width="80%">
+  </video>
+</div>
+
 ## 📢 最新动态
 
 **[2025年4月21日]** 我们开源了 WebGL交互数字人SDK：[OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat) (including LLM, ASR, TTS, Avatar), 使用这个SDK可以自由地与我们的LAM-3D数字人进行实时对话 ! 🔥 <br>
 
 **[2025年4月19日]** 我们开源了 [Audio2Expression](https://github.com/aigc3d/LAM_Audio2Expression) 模型, 用这个模型可以语音驱动我们的LAM数字人 ! 🔥 <br>
 
-**[2025年4月10日]** 我们发布了 [ModelScope](https://www.modelscope.cn/studios/Damo_XR_Lab/LAM_Large_Avatar_Model) 演示程序 ! <br>
+**[2025年4月10日]** 我们发布了在 [ModelScope](https://www.modelscope.cn/studios/Damo_XR_Lab/LAM_Large_Avatar_Model) 上的演示程序 ! <br>
 
 ### 待办清单
 - [x] 开源在VFHQ和Nersemble数据集上训练的LAM-small模型.
